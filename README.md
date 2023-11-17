@@ -11,4 +11,5 @@ git pull - get changes from the git
 git branch <branchname> - to create a new branch
 git push -u origin [branchname] - to publish the branch
 git checkout <branchname> - to switch a branch
+git merge [branchname to be merged with]
 -->
