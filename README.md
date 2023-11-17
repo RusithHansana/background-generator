@@ -9,5 +9,6 @@ git add <file name> - to add untracked files || For multiple files use git .
 git commit - commit changes into git
 git pull - get changes from the git 
 git branch <branchname> - to create a new branch
+git push -u origin [branchname] - to publish the branch
 git checkout <branchname> - to switch a branch
 -->
